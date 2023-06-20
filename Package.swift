@@ -23,5 +23,6 @@ let package = Package(
         .testTarget(
             name: "SuitEtecsaSdkSwiftTests",
             dependencies: ["SuitEtecsaSdkSwift"]),
-    ]
+    ],
+    version: "1.0.0"
 )
