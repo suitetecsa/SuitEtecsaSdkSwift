@@ -72,7 +72,7 @@ Establece las credenciales que usaras para iniciar sesion
 
 ```swift
 // Se establecen las credenciales del usuario (esto se debe hacer siempre antes de iniciar sesion)
-api.credentials = (username: "lesly.cintra@nauta.com.cu", password: "somePassword")
+api.credentials = (username: "user.name@nauta.com.cu", password: "somePassword")
 ```
 
 Conectate a internet desde la wifi o Nauta Hogar
