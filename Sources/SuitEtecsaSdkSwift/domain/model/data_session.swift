@@ -1,6 +1,6 @@
 public struct DataSession {
-    var username: String
-    var csrfHw: String
-    var wlanUserIp: String
-    var attributeUUID: String
+  public var username: String
+  public var csrfHw: String
+  public var wlanUserIp: String
+  public var attributeUUID: String
 }

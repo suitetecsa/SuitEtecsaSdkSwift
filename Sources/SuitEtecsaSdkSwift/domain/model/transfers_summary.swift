@@ -1,5 +1,5 @@
 public struct TransfersSummary {
-    let count: Int
-    let yearMonthSelected: String
-    let totalImport: String
+  public let count: Int
+  public let yearMonthSelected: String
+  public let totalImport: String
 }

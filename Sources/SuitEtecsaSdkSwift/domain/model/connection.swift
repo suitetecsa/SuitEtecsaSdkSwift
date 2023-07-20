@@ -1,8 +1,8 @@
 public struct Connection {
-    let startSession: String
-    let endSession: String
-    let duration: String
-    let uploaded: String
-    let downloaded: String
-    let import_: String
+  public let startSession: String
+  public let endSession: String
+  public let duration: String
+  public let uploaded: String
+  public let downloaded: String
+  public let import_: String
 }

@@ -4,16 +4,16 @@ import Foundation
 
 // MARK: - NautaConnectInformation
 public struct NautaConnectInformation {
-    let lastsConnections: [LastsConnection]
-    let accountInfo: AccountInfo
+  public let lastsConnections: [LastsConnection]
+  public let accountInfo: AccountInfo
 }
 
 // MARK: - AccountInfo
 public struct AccountInfo {
-    let accessAreas, accountStatus, credit, expirationDate: String
+  public let accessAreas, accountStatus, credit, expirationDate: String
 }
 
 // MARK: - LastsConnection
 public struct LastsConnection {
-    let from, to, time: String
+  public let from, to, time: String
 }

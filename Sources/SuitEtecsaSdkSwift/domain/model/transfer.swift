@@ -1,5 +1,5 @@
 public struct Transfer {
-    let date: String
-    let import_: String
-    let destinyAccount: String
+  public let date: String
+  public let import_: String
+  public let destinyAccount: String
 }

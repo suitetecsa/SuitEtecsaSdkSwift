@@ -1,6 +1,6 @@
 public struct Recharge {
-    let date: String
-    let import_: String
-    let channel: String
-    let type: String
+  public let date: String
+  public let import_: String
+  public let channel: String
+  public let type: String
 }

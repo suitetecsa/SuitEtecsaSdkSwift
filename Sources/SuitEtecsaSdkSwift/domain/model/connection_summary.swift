@@ -1,9 +1,9 @@
 public struct ConnectionsSummary {
-    let count: Int
-    let yearMonthSelected: String
-    let totalTime: String
-    let totalImport: String
-    let uploaded: String
-    let downloaded: String
-    let totalTraffic: String
+  public let count: Int
+  public let yearMonthSelected: String
+  public let totalTime: String
+  public let totalImport: String
+  public let uploaded: String
+  public let downloaded: String
+  public let totalTraffic: String
 }

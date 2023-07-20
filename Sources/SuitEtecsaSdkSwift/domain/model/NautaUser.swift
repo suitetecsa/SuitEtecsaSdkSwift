@@ -1,23 +1,23 @@
 public struct NautaUser {
-    let userName: String
-    let blockingDate: String
-    let dateOfElimination: String
-    let accountType: String
-    let serviceType: String
-    let credit: String
-    let time: String
-    let mailAccount: String
-    let offer: String?
-    let monthlyFee: String?
-    let downloadSpeed: String?
-    let uploadSpeed: String?
-    let phone: String?
-    let linkIdentifiers: String?
-    let linkStatus: String?
-    let activationDate: String?
-    let blockingDateHome: String?
-    let dateOfEliminationHome: String?
-    let quotePaid: String?
-    let voucher: String?
-    let debt: String?
+  public let userName: String
+  public let blockingDate: String
+  public let dateOfElimination: String
+  public let accountType: String
+  public let serviceType: String
+  public let credit: String
+  public let time: String
+  public let mailAccount: String
+  public let offer: String?
+  public let monthlyFee: String?
+  public let downloadSpeed: String?
+  public let uploadSpeed: String?
+  public let phone: String?
+  public let linkIdentifiers: String?
+  public let linkStatus: String?
+  public let activationDate: String?
+  public let blockingDateHome: String?
+  public let dateOfEliminationHome: String?
+  public let quotePaid: String?
+  public let voucher: String?
+  public let debt: String?
 }
