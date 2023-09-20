@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.8.0")),
-        .package(url: "https://github.com/scinfu/SwiftSoup.git", from: "2.6.0")
+        .package(url: "https://github.com/scinfu/SwiftSoup.git", from: "2.6.1")
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
