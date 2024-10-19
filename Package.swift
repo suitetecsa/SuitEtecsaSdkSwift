@@ -13,7 +13,7 @@ let package = Package(
             targets: ["SuitEtecsaSdkSwift"])
     ],
     dependencies: [
-        .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.8.0")),
+        .package(url: "https://github.com/Alamofire/Alamofire.git", .upToNextMajor(from: "5.10.1")),
         .package(url: "https://github.com/scinfu/SwiftSoup.git", from: "2.6.1")
     ],
     targets: [
